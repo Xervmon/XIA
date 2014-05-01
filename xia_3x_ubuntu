@@ -1,2 +1,1 @@
-https://github.com/Xervmon/XIA/raw/master/distros/ubuntu-3x/puppet-common_3.2.4-2ubuntu2.3_all.deb
-https://github.com/Xervmon/XIA/raw/master/distros/ubuntu-3x/puppet_3.2.4-2ubuntu2.3_all.deb
+puppet-common=3.2.4-2ubuntu2.3 puppet=3.2.4-2ubuntu2.3
