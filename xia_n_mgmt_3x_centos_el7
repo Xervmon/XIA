@@ -1,1 +1,1 @@
-puppet xervmon_broker-agent
+puppet xinetd xervmon_broker-agent

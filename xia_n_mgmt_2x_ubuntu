@@ -1,1 +1,1 @@
-puppet-common=2.7.11-1ubuntu2.7 puppet=2.7.11-1ubuntu2.7 xervmon-broker-agent
+puppet-common=2.7.11-1ubuntu2.7 puppet=2.7.11-1ubuntu2.7 xinetd xervmon-broker-agent
